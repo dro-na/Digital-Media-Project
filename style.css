@@ -45,7 +45,7 @@
 
 
             .logo img {
-                height: 2em;
+                height: 4em;
                 position: relative;
                 top: 1.5px;
 
@@ -64,12 +64,12 @@
                 ul li a {
                     text-decoration: none;
                     color: rgb(31, 29, 29);
-                    font-size: .6em;
+                    font-size: 1.5em;
                     font-family: "montserrat", sans-serif;
                 }
 
                 #socials-icon {
-                    font-size: .6em;
+                    font-size: 1.5em;
                     display: flex;
                     position: relative;
                     top: 3px;
