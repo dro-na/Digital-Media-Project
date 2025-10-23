@@ -10,23 +10,23 @@
     font-family: "montserrat", sans-serif;
 }
 
+
+
 .main-container {
-    max-width: 90vw;
+    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    /* align-items: center;
-    justify-content: center; */
+    overflow-x: hidden;
 }
+
 
 .hero {
     background-image: url(images/digital-media-bg.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     height: 100vh;
-    width: 100vw;
+    width: 100%;
 
 
 
@@ -84,7 +84,7 @@
 
 
     .text-container {
-        width: 400px;
+        width: 350px;
         position: relative;
         top: 129px;
         left: 125px;
@@ -412,6 +412,7 @@ footer {
                         top: 4px;
                         right: 10px;
                     }
+
                     #checkbox1 {
                         position: relative;
                         right: 10px;
@@ -476,7 +477,8 @@ footer {
             width: 100%;
 
             img {
-                height: 8em;
+                height: 6.9em;
+                padding: 0;
                 display: block;
                 display: flex;
                 width: auto;
