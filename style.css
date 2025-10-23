@@ -84,14 +84,13 @@
 
 
     .text-container {
-        width: 350px;
         position: relative;
         top: 129px;
         left: 125px;
         line-height: 2.5em;
 
         h1 {
-            font-size: 2em;
+            font-size: 3em;
             line-height: 1em;
             color: rgb(var(--color_45));
             font-family: "montserrat", sans-serif;
@@ -100,17 +99,17 @@
 
         p {
             font-family: "montserrat", sans-serif;
-            font-size: .9em;
+            font-size: 1.3em;
             color: rgb(34, 33, 33);
         }
 
         .btn {
             font-family: "montserrat";
-            font-size: .7em;
+            font-size: 1em;
             text-decoration: none;
             border: 2px solid black;
             color: black;
-            padding: .5em 1em;
+            padding: 1em 1.5em;
             border-radius: 20px;
             position: relative;
             top: 20px;
